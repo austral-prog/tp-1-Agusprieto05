@@ -8,5 +8,5 @@ def math():
     print(int(A / B))
     print(int(A-((int(A / B)) * B)))
     print(float(A / B))
-    
+math()
     
